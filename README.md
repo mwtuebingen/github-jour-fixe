@@ -1,5 +1,5 @@
-# Kollaboratives Schreiben mit GitHub (UB Tübingen, 15.5.2019)
-Das Repository für Workshop "Kollaboratives Schreiben mit GitHub" am 15.5.2019.
+# Kollaboratives Schreiben mit GitHub (UB Tübingen, 5.7.2019)
+Das Repository für Workshop "Kollaboratives Schreiben mit GitHub" am 5.7.2019.
 
 # Markdown
 
